@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1,Gotham S04 E01
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132362.mp4
+#EXTINF:-1,Gotham S04 E02
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132363.mp4
+#EXTINF:-1,Gotham S04 E03
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132364.mp4
+#EXTINF:-1,Gotham S04 E04
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132365.mp4
+#EXTINF:-1,Gotham S04 E05
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132366.mp4
+#EXTINF:-1,Gotham S04 E06
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132367.mp4
+#EXTINF:-1,Gotham S04 E07
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132368.mp4
+#EXTINF:-1,Gotham S04 E08
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132369.mp4
+#EXTINF:-1,Gotham S04 E09
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132370.mp4
+#EXTINF:-1,Gotham S04 E10
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132371.mp4
+#EXTINF:-1,Gotham S04 E11
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132372.mp4
+#EXTINF:-1,Gotham S04 E12
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132360.mp4
+#EXTINF:-1,Gotham S04 E13
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132361.mp4
+#EXTINF:-1,Gotham S04 E14
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132351.mp4
+#EXTINF:-1,Gotham S04 E15
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132352.mp4
+#EXTINF:-1,Gotham S04 E16
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132353.mp4
+#EXTINF:-1,Gotham S04 E17
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132354.mp4
+#EXTINF:-1,Gotham S04 E18
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132355.mp4
+#EXTINF:-1,Gotham S04 E19
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132356.mp4
+#EXTINF:-1,Gotham S04 E20
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132357.mp4
+#EXTINF:-1,Gotham S04 E21
+http://exitotviptv.fun:8080/series/Baltazar997890/Baltazar997881/132358.mp4
