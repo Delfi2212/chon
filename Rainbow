@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Interés Compuesto</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            text-align: center;
+            margin-top: 50px;
+        }
+        .calculator {
+            width: 300px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .calculator input[type="number"] {
+            width: 100%;
+            height: 40px;
+            font-size: 16px;
+            text-align: center;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+        }
+        .calculator input[type="button"] {
+            width: 100%;
+            height: 40px;
+            font-size: 16px;
+            margin-top: 10px;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            border-radius: 4px;
+        }
+        .calculator input[type="button"]:hover {
+            background-color: #45a049;
+        }
+        .calculator #result {
+            font-size: 18px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="calculator">
+        <input type="number" id="initialAmount" placeholder="Ingrese el monto inicial">
+        <input type="number" id="days" placeholder="Ingrese los días">
+        <input type="button" value="Calcular" onclick="calculateCompoundInterest()">
+        <div id="result"></div>
+    </div>
+
+    <script>
+        function calculateCompoundInterest() {
+            var principal = parseFloat(document.getElementById('initialAmount').value);
+            var days = parseInt(document.getElementById('days').value);
+            var rate = 0.016; // Tasa diaria del 1.6%
+
+            // Fórmula del interés compuesto: A = P * (1 + r)^n
+            var amount = principal * Math.pow(1 + rate, days);
+
+            // Mostrar el resultado formateado
+            document.getElementById('result').innerText = 'Después de ' + days + ' operaciones, tendrás: $' + amount.toFixed(2);
+        }
+    </script>
+</body>
+</html>
